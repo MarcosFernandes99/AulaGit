@@ -2,5 +2,5 @@ Chamei o João
 
 Ele me falou que não trabalha atualmente.
 
-
+Tem 20 anos e o objetivo do curso é trabalhar como programador BackEnd
 
